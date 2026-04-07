@@ -1,4 +1,7 @@
 # Simple Exploratory Financial Modeling and Analysis (EFMA) Base Code
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 This repository provides a generalized Python template for conducting Exploratory Modeling and Analysis (EMA) using the `ema_workbench`.
 
 This template is designed to help undergraduate and graduate students seamlessly integrate Excel-based financial models into an exploratory simulation workflow without having to build the experimental design pipeline from scratch.
@@ -55,3 +58,7 @@ The initial simulation logic and base model concept were generously shared by **
 This framework is built on top of the excellent 'ema_workbench' library. Users are highly encouraged to read the official documentation for advanced configurations:
 - **Documentation:** [EMA Workbench Official Docs](https://emaworkbench.readthedocs.io/)
 - **Source Code:** [quaquel/EMAworkbench](https://github.com/quaquel/EMAworkbench)
+
+
+## 📄 License
+This project is licensed under the MIT License — see the LICENSE file for details.
