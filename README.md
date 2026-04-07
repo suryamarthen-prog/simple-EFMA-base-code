@@ -13,7 +13,6 @@ This template includes:
 - Exploratory Modeling and Analysis (EMA)
 - Feature scoring
 - Dimensional stacking visualization
-- Scenario discovery using PRIM
 
 
 ## 🎯 Why This Template
