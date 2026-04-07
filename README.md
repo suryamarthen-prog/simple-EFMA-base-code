@@ -47,11 +47,11 @@ If you use this template for your thesis, research, or project, please cite it u
 *(Note: Feel free to adapt this citation format to IEEE, Harvard, or any other reference style required by your institution).*
 
 
-## Acknowledgment
+## 🙏 Acknowledgment
 The initial simulation logic and base model concept were generously shared by **[Bramka Arga Jafino](https://github.com/bramkaarga)**.
 
 
-## References
+## 📚 References
 This framework is built on top of the excellent 'ema_workbench' library. Users are highly encouraged to read the official documentation for advanced configurations:
 - **Documentation:** [EMA Workbench Official Docs](https://emaworkbench.readthedocs.io/)
 - **Source Code:** [quaquel/EMAworkbench](https://github.com/quaquel/EMAworkbench)
