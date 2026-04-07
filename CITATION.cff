@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+type: software
+title: "Simple Exploratory Financial Modeling and Analysis (EFMA) Base Code"
+abstract: "A generalized Python template for conducting Exploratory Modeling and Analysis (EMA) using the ema_workbench. Designed to help undergraduate and graduate students seamlessly integrate Excel-based financial models into an exploratory simulation workflow."
+authors:
+  - family-names: Marthen
+    given-names: Surya
+    alias: suryamarthen-prog
+repository-code: "https://github.com/suryamarthen-prog/simple-EFMA-base-code"
+url: "https://github.com/suryamarthen-prog/simple-EFMA-base-code"
+date-released: 2026-04-08
+license: "NOASSERTION"
+keywords:
+  - exploratory modeling
+  - deep uncertainty
+  - financial modeling
+  - ema_workbench
+  - Excel
+  - Python
+  - scenario discovery
+  - sensitivity analysis
