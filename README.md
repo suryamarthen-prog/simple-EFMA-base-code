@@ -1,5 +1,5 @@
 # Simple Exploratory Financial Modeling and Analysis (EFMA) Base Code
-This repository provides a generalized Python template for conducting Exploratory Modeling and Analysis (EMA) using the [`ema_workbench`](https://emaworkbench.readthedocs.io/en/latest/).
+This repository provides a generalized Python template for conducting Exploratory Modeling and Analysis (EMA) using the [`ema_workbench`](https://emaworkbench.readthedocs.io/).
 
 This template is designed to help undergraduate and graduate students seamlessly integrate Excel-based financial models into an exploratory simulation workflow without having to build the experimental design pipeline from scratch.
 
@@ -54,4 +54,4 @@ The initial simulation logic and base model concept were generously shared by **
 ## References & Dependencies
 This framework is built on top of the excellent ema_workbench library. Users are highly encouraged to read the official documentation for advanced configurations:
 - **Documentation:** [EMA Workbench Official Docs](https://emaworkbench.readthedocs.io/)
-- **Source Code:** [quaquel/ema_workbench](https://github.com/quaquel/ema_workbench)
+- **Source Code:** [quaquel/ema_workbench](https://github.com/quaquel/EMAworkbench)
