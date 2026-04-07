@@ -1,4 +1,4 @@
-cff-version: 1.2.0
+cff-version: 1.0.0
 message: "If you use this code, please cite it as below."
 type: software
 title: "Simple Exploratory Financial Modeling and Analysis (EFMA) Base Code"
@@ -6,7 +6,7 @@ abstract: "A generalized Python template for conducting Exploratory Modeling and
 authors:
   - family-names: Marthen
     given-names: Surya
-    alias: suryamarthen-prog
+    orcid: "https://orcid.org/0009-0002-2212-3565"
 repository-code: "https://github.com/suryamarthen-prog/simple-EFMA-base-code"
 url: "https://github.com/suryamarthen-prog/simple-EFMA-base-code"
 date-released: 2026-04-08
