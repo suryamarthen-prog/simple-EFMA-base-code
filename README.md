@@ -54,4 +54,4 @@ The initial simulation logic and base model concept were generously shared by **
 ## References & Dependencies
 This framework is built on top of the excellent ema_workbench library. Users are highly encouraged to read the official documentation for advanced configurations:
 - **Documentation:** [EMA Workbench Official Docs](https://emaworkbench.readthedocs.io/)
-- **Source Code:** [quaquel/ema_workbench](https://github.com/quaquel/EMAworkbench)
+- **Source Code:** [quaquel/EMAworkbench](https://github.com/quaquel/EMAworkbench)
