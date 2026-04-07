@@ -42,7 +42,7 @@ You can download the template directly from the repository:
 
 ## 📖 How to Cite
 If you use this template for your thesis, research, or project, please cite it using the following format (APA Style):
-> Marthen, S. (2026). Simple Exploratory Financial Modeling and Analysis (EFMA) Base Code [Computer software]. GitHub. https://github.com/suryamarthen-prog/simple-EFMA-base-code
+> Marthen, S. (2026). *Simple Exploratory Financial Modeling and Analysis (EFMA) Base Code* [Computer software]. GitHub. https://github.com/suryamarthen-prog/simple-EFMA-base-code
 
 *(Note: Feel free to adapt this citation format to IEEE, Harvard, or any other reference style required by your institution).*
 
