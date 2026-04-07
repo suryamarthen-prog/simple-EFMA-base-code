@@ -7,6 +7,15 @@ This repository provides a generalized Python template for conducting Explorator
 This template is designed to help undergraduate and graduate students seamlessly integrate Excel-based financial models into an exploratory simulation workflow without having to build the experimental design pipeline from scratch.
 
 
+## ✨ Included Template Features
+This template includes:
+- Excel-based financial model integration
+- Exploratory Modeling and Analysis (EMA)
+- Feature scoring
+- Dimensional stacking visualization
+- Scenario discovery using PRIM
+
+
 ## 🎯 Why This Template
 Many students build financial models in Excel but struggle to perform systematic exploratory analysis. This template bridges that gap by connecting Excel-based models with EMA Workbench, enabling robust decision-making under uncertainty.
 
