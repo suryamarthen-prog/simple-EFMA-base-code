@@ -15,6 +15,12 @@ This template includes:
 - Dimensional stacking visualization
 
 
+## 📷 Example Output
+### Feature Scoring
+![Feature Scoring](images/feature_scoring.png)
+### Dimensional Stacking
+![Dimensional Stacking](images/dimensional_stacking.png)
+
 ## 🎯 Why This Template
 Many students build financial models in Excel but struggle to perform systematic exploratory analysis. This template bridges that gap by connecting Excel-based models with EMA Workbench, enabling robust decision-making under uncertainty.
 
