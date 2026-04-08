@@ -51,14 +51,6 @@ You can download the template directly from the repository:
 - Or download individual files directly
 
 
-## 🚀 Quick Start
-1. Download the template
-2. Connect your Excel financial model
-3. Define uncertainties and parameters
-4. Run exploratory experiments
-5. Analyze the results
-
-
 ## 📖 How to Cite
 If you use this template for your thesis, research, or project, please cite it using the following format (APA Style):
 > Marthen, S. (2026). *Simple Exploratory Financial Modeling and Analysis (EFMA) Base Code* [Computer software]. GitHub. https://github.com/suryamarthen-prog/simple-EFMA-base-code
