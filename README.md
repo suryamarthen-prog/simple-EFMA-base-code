@@ -19,6 +19,14 @@ This template includes:
 Many students build financial models in Excel but struggle to perform systematic exploratory analysis. This template bridges that gap by connecting Excel-based models with EMA Workbench, enabling robust decision-making under uncertainty.
 
 
+## 📃 Related Publication
+This template is based on methodology used in the following research:
+
+> Setiawan, A. D., Marthen, S., Dewi, M. P., Moeis, A. O., Hidayatno, A., & Romijn, H. (2025). Investment feasibility of green hydrogen production from geothermal electricity: Navigating uncertainty with exploratory financial modeling and analysis. *International Journal of Hydrogen Energy*, 202, 153058. https://doi.org/10.1016/j.ijhydene.2025.153058
+
+As a contributing author, I generalized the workflow into this reusable template for students and researchers.
+
+
 ## ⚙️ What This Template Does
 This template helps users:
 - Connect Excel-based financial models to Python
